@@ -6,6 +6,12 @@ architectures and ensuring system reliability through deep observability.
 
 ---
 
+- 🔭 I’m currently focused on: Hexagonal Architecture and GraphQL API.
+- 🌱 Learning: Springboot clound and AI
+- 💬 Ask me about: Microservices, Event Sourcing, and Monitoring.
+
+---
+
 ## 🛠 Technical Stack
 
 ### **Languages & Frameworks**
@@ -25,11 +31,6 @@ architectures and ensuring system reliability through deep observability.
 
 ---
 
-- 🔭 I’m currently focused on: Hexagonal Architecture and GraphQL API.
-- 🌱 Learning: Springboot clound and AI
-- 💬 Ask me about: Microservices, Event Sourcing, and Monitoring.
-
----
 ## 📊 Details
 * **Core Backend:** Java 17+, Spring Boot.
 * **API Design:** GraphQL, REST.
