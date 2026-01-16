@@ -7,7 +7,7 @@ architectures and ensuring system reliability through deep observability.
 ---
 
 - 🔭 I’m currently focused on: Hexagonal Architecture and GraphQL API.
-- 🌱 Learning: Springboot clound and AI
+- 🌱 Learning: Springboot cloud and AI
 - 💬 Ask me about: Microservices, Event Sourcing, and Monitoring.
 
 ---
